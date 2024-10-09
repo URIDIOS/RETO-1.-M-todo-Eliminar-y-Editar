@@ -1,0 +1,303 @@
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll.config
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.pdb
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.rsp
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.rsp
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubi.B23C0FBD.Up2Date
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.dll
+C:\Users\Lenovo\source\repos\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.pdb
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll.config
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.pdb
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe.config
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.rsp
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe.config
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.rsp
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.AppContext.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Collections.Immutable.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Console.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Globalization.Calendars.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Http.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Sockets.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Reflection.Metadata.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.ValueTuple.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe.config
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.rsp
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe.config
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.AssemblyReference.cache
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.CoreCompileInputs.cache
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.CopyComplete
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.dll
+D:\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.pdb
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll.config
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.pdb
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe.config
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.rsp
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe.config
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.rsp
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.AppContext.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Console.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Http.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.ValueTuple.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe.config
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.rsp
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.AssemblyReference.cache
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.CoreCompileInputs.cache
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubi.B23C0FBD.Up2Date
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.dll
+C:\Users\escue\Desktop\Caperta de Juan\Carpeta de AWOS\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.pdb
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll.config
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.pdb
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe.config
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.rsp
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe.config
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.rsp
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.AppContext.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Collections.Immutable.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Console.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Globalization.Calendars.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Http.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Sockets.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Reflection.Metadata.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.ValueTuple.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe.config
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.rsp
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe.config
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\BLL.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\DAL.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\BLL.pdb
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\DAL.pdb
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.AssemblyReference.cache
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.CoreCompileInputs.cache
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubi.B23C0FBD.Up2Date
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.dll
+D:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.pdb
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll.config
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Crut_Ubicacion_JACR.pdb
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.exe.config
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csc.rsp
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.exe.config
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\csi.rsp
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.AppContext.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Collections.Immutable.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Console.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Globalization.Calendars.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Http.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Net.Sockets.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Reflection.Metadata.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.ValueTuple.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.exe.config
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\vbc.rsp
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\roslyn\VBCSCompiler.exe.config
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\BLL.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\DAL.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\BLL.pdb
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\DAL.pdb
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.AssemblyReference.cache
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.csproj.CoreCompileInputs.cache
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.dll
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubicacion_JACR.pdb
+F:\Primera API\Crut_Ubicacion_JACR\Crut_Ubicacion_JACR\obj\Debug\Crut_Ubi.B23C0FBD.Up2Date

@@ -1,0 +1,12 @@
+D:\Primera API\Crut_Ubicacion_JACR\BLL\bin\Debug\BLL.dll
+D:\Primera API\Crut_Ubicacion_JACR\BLL\bin\Debug\BLL.pdb
+D:\Primera API\Crut_Ubicacion_JACR\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Primera API\Crut_Ubicacion_JACR\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Primera API\Crut_Ubicacion_JACR\BLL\obj\Debug\BLL.dll
+D:\Primera API\Crut_Ubicacion_JACR\BLL\obj\Debug\BLL.pdb
+F:\Primera API\Crut_Ubicacion_JACR\BLL\bin\Debug\BLL.dll
+F:\Primera API\Crut_Ubicacion_JACR\BLL\bin\Debug\BLL.pdb
+F:\Primera API\Crut_Ubicacion_JACR\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Primera API\Crut_Ubicacion_JACR\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Primera API\Crut_Ubicacion_JACR\BLL\obj\Debug\BLL.dll
+F:\Primera API\Crut_Ubicacion_JACR\BLL\obj\Debug\BLL.pdb

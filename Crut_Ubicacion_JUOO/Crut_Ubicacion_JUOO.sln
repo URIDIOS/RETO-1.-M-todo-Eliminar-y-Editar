@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crut_Ubicacion_JACR", "Crut_Ubicacion_JACR\Crut_Ubicacion_JACR.csproj", "{E7F1A099-BDCB-42B6-BC1A-A061B750AEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{01C3F1BA-F91C-4DF7-9B13-2C5F41625941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{997D6EE6-6903-4625-8528-EC345DDEF405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F1A099-BDCB-42B6-BC1A-A061B750AEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F1A099-BDCB-42B6-BC1A-A061B750AEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F1A099-BDCB-42B6-BC1A-A061B750AEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F1A099-BDCB-42B6-BC1A-A061B750AEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C3F1BA-F91C-4DF7-9B13-2C5F41625941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C3F1BA-F91C-4DF7-9B13-2C5F41625941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C3F1BA-F91C-4DF7-9B13-2C5F41625941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C3F1BA-F91C-4DF7-9B13-2C5F41625941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997D6EE6-6903-4625-8528-EC345DDEF405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997D6EE6-6903-4625-8528-EC345DDEF405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997D6EE6-6903-4625-8528-EC345DDEF405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997D6EE6-6903-4625-8528-EC345DDEF405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA24D0C9-52B5-4FF2-998B-63608F55C64D}
+	EndGlobalSection
+EndGlobal
